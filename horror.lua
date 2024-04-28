@@ -1,4 +1,4 @@
-_G.thingtosay = "Q.SK IS ONTOP GET ARES INSTEAD OF SIRIUS ADD DESKO Q.SK " 
+_G.thingtosay = "Q.SK ONTOP WHERE THE HOZ AT HMU FOR WOCKCUP HE IS CUTE  " 
 if not _G.shoption then _G.shoption = "largest" end
 wait(5) if not game:IsLoaded() then game.Loaded:Wait() end
 
